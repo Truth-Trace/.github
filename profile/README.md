@@ -1,3 +1,4 @@
+![logo-white](https://github.com/Truth-Trace/.github/assets/64556649/16dd6dd1-d679-433c-ab42-dded3e9dae6a)
 # Truth Trace
 
 ## Overview
